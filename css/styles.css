@@ -1,0 +1,22 @@
+#over18, #under18 {
+  display: none;
+  margin: 1em;
+  padding: 1em;
+  background-color: royalblue;
+  border-radius: 8px;
+}
+
+body{
+  background-image: linear-gradient(to left, red, blue);
+}
+
+#heads{
+  color: white;
+  font-weight: bolder;
+  font-size: 6em;
+  text-align: center;
+  padding: 2em;
+  margin: 2em;
+  background-color: red;
+  border-radius: 8px;
+}
