@@ -4,7 +4,7 @@ $(document).ready(function() {
   if (age > 18) {
     $('#over18').show();
   } else if (age === 18) {
-    alert("Congrats you can officially vote!");
+    alert("congrats!");
     $('#over18').show();
   } else {
     $('#under18').show();
